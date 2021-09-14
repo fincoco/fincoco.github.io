@@ -15,7 +15,6 @@ menu:
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
-- {name: Pics, link: '/pics'}
 
 
 #-------------------------------
