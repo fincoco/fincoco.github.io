@@ -3,11 +3,11 @@
 
 title: Jieun's Blog
 logo: 
-author: themefisher
+author: DOKJ
 description: this is meta description
 email: finco.jieun@gmail.com
 phone: +82
-address: 125/A, CA Commercial Area, California, USA
+address: Seoul, South Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Jieun <br> SW Engineer&Writer
+  hero-title: Hi! I’m Jieun. <br> SW Engineer&Writer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -293,4 +293,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: finco.jieun@gmail.com
